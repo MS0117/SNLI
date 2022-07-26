@@ -15,7 +15,7 @@ For each instance, there is a string for the premise, a string for the hypothesi
 ## Download Datasets
 
 ```
-$ data.sh
+$ bash data.sh
 ```
 
 
